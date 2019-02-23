@@ -146,7 +146,7 @@ MESSAGE_TAGS = {
 # Email config
 # EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'indranarayan12sah@gmail.com'
-# EMAIL_HOST_PASSWORD = '#sachin12'
+# EMAIL_HOST_USER = ''
+# EMAIL_HOST_PASSWORD = ''
 # EMAIL_USE_TLE = True
 
