@@ -1,9 +1,0 @@
-{
-    "python.pythonPath": "venv\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true,
-    "python.linting.pylintArgs": ["--load-plugins=pylint_django", "--errors-only"],
-   // "python.linting.pylintArgs": ["--errors-only"],
-
-
-
-}
