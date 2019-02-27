@@ -1,2 +1,2 @@
 # btre_project
-Django real estate website
+Real estate website with backend frameworks like Django
